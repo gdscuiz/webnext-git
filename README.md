@@ -2,7 +2,7 @@
 
 GDSCUIZ is awesome | Kaito
 
-Bachir said hello world!
+Bachir said hello earth!
 
 Taha said welcome!!
 taha again
